@@ -1,0 +1,519 @@
+# Copyright (C) 2019 nicetheme
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: Panda PRO\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/PandaPRO\n"
+"POT-Creation-Date: 2019-08-17T07:01:15+00:00\n"
+"PO-Revision-Date: 2019-08-17 15:20+0800\n"
+"Last-Translator: \n"
+"Language-Team: https://www.nicetheme.cn\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Domain: pandapro\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Theme Name of the theme
+msgid "PandaPRO"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://www.nicetheme.cn/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"PandaPRO is a blog theme finely crafted by nicetheme. Panda PRO started from "
+"zero for the handiest user experience with elegance and performance."
+msgstr ""
+"全新的 Panda PRO 主题从心出发，全新设计，只为让您的站点拥有速度与优雅兼具的极"
+"致体验。"
+
+#. Author of the theme
+msgid "nicetheme"
+msgstr "nicetheme"
+
+#: functions.php:52
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: functions.php:53
+msgid "Mobile Navigation"
+msgstr "移动导航"
+
+#: functions.php:54
+msgid "Footer Navigation"
+msgstr "底部导航"
+
+#: functions.php:108
+msgid "Main Sidebar"
+msgstr "主侧边栏"
+
+#: functions.php:110 functions.php:118 functions.php:127 functions.php:136
+#: functions.php:145 functions.php:154 functions.php:163
+msgid "Add widgets here."
+msgstr "在这里添加小工具。"
+
+#: functions.php:117
+msgid "Archive Sidebar"
+msgstr "归档侧栏"
+
+#: functions.php:126
+msgid "News Category Sidebar"
+msgstr "快讯分类侧栏"
+
+#: functions.php:135
+msgid "News Sidebar"
+msgstr "快讯侧栏"
+
+#: functions.php:144
+msgid "Single Sidebar"
+msgstr "文章侧栏"
+
+#: functions.php:153
+msgid "Author Sidebar"
+msgstr "作者侧栏"
+
+#: functions.php:162
+msgid "Page Sidebar"
+msgstr "页面侧栏"
+
+#: functions.php:198 comments.php:138 template-parts/post-navigation.php:19
+msgid "Load more..."
+msgstr "加载更多"
+
+#: functions.php:199
+msgid "You've reached the end."
+msgstr "- 没有更多内容 -"
+
+#: functions.php:200
+msgid "Thank you!"
+msgstr "谢谢点赞"
+
+#: functions.php:201
+msgid "Success!"
+msgstr "操作成功"
+
+#: functions.php:202
+msgid "Cancelled."
+msgstr "取消点赞"
+
+#: functions.php:232 functions.php:233 functions.php:244
+msgid "News"
+msgstr "快讯"
+
+#: functions.php:234 functions.php:235 functions.php:237
+msgid "Add News"
+msgstr "添加快讯"
+
+#: functions.php:236
+msgid "Edit News"
+msgstr "编辑快讯"
+
+#: functions.php:238
+msgid "All News"
+msgstr "所有快讯"
+
+#: functions.php:239
+msgid "View News"
+msgstr "查看快讯"
+
+#: functions.php:240
+msgid "Search News"
+msgstr "搜索快讯"
+
+#: functions.php:241
+msgid "We can't find anything..."
+msgstr "并未找到任何快讯..."
+
+#: functions.php:242
+msgid "We can't find anything in trash..."
+msgstr "在回收站内并未找到任何快讯…"
+
+#: functions.php:275
+msgid "Topics"
+msgstr "专题标签"
+
+#: functions.php:294
+msgid "News Category"
+msgstr "快讯分类"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！ 该页面无法找到。"
+
+#: 404.php:16 index.php:48 archive.php:74 search.php:48 author.php:99
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "看起来这里没有任何东西…"
+
+#: inc/template-tags.php:46 template-parts/header-user.php:56
+msgid "Home"
+msgstr "我的主页"
+
+#: inc/template-tags.php:48
+msgid "Search Result \"%s\""
+msgstr "%s 搜索结果："
+
+#: inc/template-tags.php:49
+msgid "Topic %s"
+msgstr "专题 %s"
+
+#: inc/template-tags.php:50
+msgid "Tag %s"
+msgstr "标签 %s"
+
+#: inc/template-tags.php:51
+msgid "%s's Posts"
+msgstr "%s 的文章"
+
+#: inc/template-tags.php:52
+msgid "404 Not Found"
+msgstr "404 未找到"
+
+#: inc/template-tags.php:53
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: inc/template-tags.php:54
+msgid "Comment Page %s"
+msgstr "评论页 %s"
+
+#: inc/template-tags.php:224
+msgid "Admin"
+msgstr "站长"
+
+#: inc/template-functions.php:320
+msgid "Administrator"
+msgstr "站长"
+
+#: inc/template-functions.php:322
+msgid "Certified Editor"
+msgstr "认证编辑"
+
+#: inc/template-functions.php:324
+msgid "Special Author"
+msgstr "特约作者"
+
+#: inc/template-functions.php:326
+msgid "Subscriber"
+msgstr "订阅者"
+
+#: inc/template-functions.php:329
+msgid "Contributor"
+msgstr "投稿者"
+
+#: inc/template-functions.php:478
+msgid "Sorry, comments are closed."
+msgstr "抱歉，评论已关闭。"
+
+#: inc/template-functions.php:481 inc/template-functions.php:484
+msgid "Unknown error."
+msgstr "未知错误。"
+
+#: inc/template-functions.php:487
+msgid "Password protected."
+msgstr "该页面受密码保护。"
+
+#: inc/template-functions.php:507
+msgid "Sorry, you must be logged in to leave a comment"
+msgstr "抱歉，您必须登录后才能发表评论。"
+
+#: inc/template-functions.php:512
+msgid "Please fill in the required options (Name, Email)."
+msgstr "错误：请填写必须的选项（姓名，电子邮件）。"
+
+#: inc/template-functions.php:514
+msgid "Please input a valid email address."
+msgstr "请输入有效的电子邮件地址。"
+
+#: inc/template-functions.php:517
+msgid "Say something..."
+msgstr "说点什么吧…"
+
+#: inc/template-functions.php:522
+msgid "Please do not repeat your comments. :)"
+msgstr "aha~似乎说过这句话了 :)"
+
+#: inc/template-functions.php:530
+msgid "You reply too fast. Take it easy."
+msgstr "你回复太快啦。慢慢来。"
+
+#: archive.php:46
+msgid "posts"
+msgstr "篇文章"
+
+#: comments.php:34 template-parts/mobile-sidebar.php:57
+#: template-parts/mobile-sidebar.php:122 author.php:41 author.php:79
+#: widgets/author-card.php:55
+msgid "Comments"
+msgstr "评论"
+
+#: comments.php:44
+msgid "Please login to leave a comment."
+msgstr "请登录以参与评论。"
+
+#: comments.php:46 comments.php:48 template-parts/mobile-sidebar.php:116
+msgid "Login now."
+msgstr "立即登录"
+
+#: comments.php:69 template-parts/header-user.php:48
+#: template-parts/header-user.php:65
+msgid "Logout"
+msgstr "退出登录"
+
+#: comments.php:83
+msgid "Nickname"
+msgstr "昵称"
+
+#: comments.php:88
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:93
+msgid "Website"
+msgstr "网站地址"
+
+#: comments.php:107
+msgid "Back"
+msgstr "再想想"
+
+#: comments.php:108
+msgid "Submit"
+msgstr "发布评论"
+
+#: comments.php:143
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: header.php:46 template-parts/mobile-sidebar.php:149
+msgid ""
+"<li><a href=\"/wp-admin/nav-menus.php\">Please set up your first menu at "
+"[Admin -> Appearance -> Menus]</a></li>"
+msgstr ""
+"<li><a href=\"/wp-admin/nav-menus.php\">请到 [后台->外观->菜单] 中设置菜单</"
+"a></li>"
+
+#: header.php:54
+msgid "Dark Mode"
+msgstr "夜晚模式"
+
+#: header.php:57
+msgid "Light Mode"
+msgstr "日间模式"
+
+#: header.php:71
+msgid "Type anything to search..."
+msgstr "请输入搜索关键词并按回车键…"
+
+#: template-parts/header-user.php:11
+msgid "Search"
+msgstr "搜索"
+
+#: template-parts/header-user.php:21
+msgid "Contribute"
+msgstr "投稿"
+
+#: template-parts/header-user.php:42 template-parts/header-user.php:59
+msgid "My Posts"
+msgstr "我的文章"
+
+#: template-parts/header-user.php:45 template-parts/header-user.php:62
+#: template-parts/mobile-sidebar.php:82
+msgid "Profile"
+msgstr "个人资料"
+
+#: template-parts/header-user.php:74 template-parts/header-user.php:79
+msgid "Register"
+msgstr "注册"
+
+#: template-parts/header-user.php:75 template-parts/header-user.php:80
+msgid "Sign in"
+msgstr "登录"
+
+#: template-parts/single-post-card.php:3
+msgid "That day"
+msgstr " 那年今日"
+
+#: template-parts/single-post-card.php:3
+msgid "Random Post"
+msgstr "随机一文"
+
+#: template-parts/related-posts.php:34
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: template-parts/content/content.php:14
+#: template-parts/content/content-news.php:14 page.php:19
+#: pages/page-full.php:16 pages/page-links.php:16
+msgid "Edit"
+msgstr "编辑"
+
+#: template-parts/list-ajax-nav.php:8
+msgid "Recommended"
+msgstr "推荐"
+
+#: template-parts/related-news.php:24
+msgid "Related News"
+msgstr "相关快讯"
+
+#: template-parts/post-share-text-section.php:21
+msgid "Share"
+msgstr "分享"
+
+#: template-parts/post-share-text-section.php:26
+msgid "Scan QR code"
+msgstr "微信扫一扫 分享朋友圈"
+
+#: template-parts/post-share-text-section.php:26
+msgid "Long press the QR code to share something on moments"
+msgstr "在微信中请长按二维码"
+
+#: template-parts/post-content-control.php:23
+msgid "Restricted content"
+msgstr "部分内容已隐藏"
+
+#: template-parts/post-content-control.php:24
+msgid "Login to read more..."
+msgstr "立即登录，阅读全文"
+
+#: template-parts/post-content-control.php:43
+msgid "Hidden content"
+msgstr "作者设置了回复可见"
+
+#: template-parts/post-content-control.php:44
+msgid "Comment to read more..."
+msgstr "立即评论，阅读全文"
+
+#: template-parts/mobile-sidebar.php:54 template-parts/mobile-sidebar.php:76
+#: template-parts/mobile-sidebar.php:119 author.php:38 author.php:78
+#: widgets/author-card.php:52
+msgid "Posts"
+msgstr "文章"
+
+#: template-parts/mobile-sidebar.php:60 template-parts/mobile-sidebar.php:125
+#: author.php:44 widgets/author-card.php:58
+msgid "Likes"
+msgstr "获赞"
+
+#: template-parts/mobile-sidebar.php:70
+msgid "New Post"
+msgstr "新建文章"
+
+#: template-parts/post-share-section.php:98
+msgid "%d member(s) like this post"
+msgstr "等 %d 人赞过"
+
+#: footer.php:28
+msgid ""
+"<li><a class=\"nav-link\" href=\"/wp-admin/nav-menus.php\">Please set up "
+"your first menu at [Admin -> Appearance -> Menus]</a></li>"
+msgstr ""
+"<li><a class=“nav-link” href=“/wp-admin/nav-menus.php”>请到 [后台->外观->菜"
+"单] 中设置菜单</a></li>"
+
+#: footer.php:47
+msgid "Partners: "
+msgstr "合作伙伴："
+
+#: comment.php:17
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: comment.php:26
+msgid "Reply"
+msgstr "回复"
+
+#. Template Name of the theme
+msgid "Topics Page"
+msgstr "专题汇总"
+
+#. Template Name of the theme
+msgid "Full Page"
+msgstr "全宽页面"
+
+#. Template Name of the theme
+msgid "Links Page"
+msgstr "友情链接"
+
+#: widgets/author-card.php:10 widgets/author-card.php:12
+msgid "Panda PRO - Author Card"
+msgstr "Panda PRO - 作者卡片"
+
+#: widgets/recommended-posts.php:30 widgets/recommended-posts.php:32
+msgid "Panda PRO - Recommended Posts"
+msgstr "Panda PRO - 文章聚合"
+
+#: widgets/recommended-posts.php:202 widgets/recommended-posts.php:235
+#: widgets/daily-news.php:106
+msgid "Not found any posts..."
+msgstr "没有更多文章..."
+
+#: widgets/daily-news.php:30 widgets/daily-news.php:32
+msgid "Panda PRO - Daily News"
+msgstr "Panda PRO - 每日快讯"
+
+#: widgets/daily-news.php:102
+msgid "More"
+msgstr "更多"
+
+#~ msgid "Description"
+#~ msgstr "描述"
+
+#~ msgid "Just now"
+#~ msgstr "刚刚"
+
+#~ msgid " day(s) ago"
+#~ msgstr " 天前"
+
+#~ msgid " hour(s) ago"
+#~ msgstr " 小时前"
+
+#~ msgid " min(s) ago"
+#~ msgstr " 分钟前"
+
+#~ msgid " sec(s) ago"
+#~ msgstr " 秒前"
+
+#~ msgid "Portfolio"
+#~ msgstr "专题汇总"
+
+#~ msgid "Mobile Tab Navigation"
+#~ msgstr "移动 Tab 导航"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Category"
+#~ msgstr "分类"
+
+#~ msgid "Top Keywords"
+#~ msgstr "热门搜索"
+
+#~ msgid "Episodes"
+#~ msgstr "剧集"
+
+#~ msgid "Previous"
+#~ msgstr "上一篇"
+
+#~ msgid "Next"
+#~ msgstr "下一篇"
+
+#~ msgid "Like"
+#~ msgstr "喜欢"
+
+#~ msgid "Browsing History"
+#~ msgstr "最近浏览记录"
+
+#~ msgid ""
+#~ "Recent browsing history is only stored on your drive and keeps up to 20 "
+#~ "records at maximum."
+#~ msgstr "最近浏览记录仅保存在本地，且最多保留20条记录。"
+
+#~ msgid "Friend Links"
+#~ msgstr "友情链接"

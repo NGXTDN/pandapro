@@ -1,0 +1,486 @@
+# Copyright (C) 2019 nicetheme
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: PandaPRO 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/PandaPRO\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-08-17T07:01:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: pandapro\n"
+
+#. Theme Name of the theme
+msgid "PandaPRO"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://www.nicetheme.cn/"
+msgstr ""
+
+#. Description of the theme
+msgid "PandaPRO is a blog theme finely crafted by nicetheme. Panda PRO started from zero for the handiest user experience with elegance and performance."
+msgstr ""
+
+#. Author of the theme
+msgid "nicetheme"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:53
+msgid "Mobile Navigation"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:108
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:110
+#: functions.php:118
+#: functions.php:127
+#: functions.php:136
+#: functions.php:145
+#: functions.php:154
+#: functions.php:163
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:117
+msgid "Archive Sidebar"
+msgstr ""
+
+#: functions.php:126
+msgid "News Category Sidebar"
+msgstr ""
+
+#: functions.php:135
+msgid "News Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Single Sidebar"
+msgstr ""
+
+#: functions.php:153
+msgid "Author Sidebar"
+msgstr ""
+
+#: functions.php:162
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:198
+#: comments.php:138
+#: template-parts/post-navigation.php:19
+msgid "Load more..."
+msgstr ""
+
+#: functions.php:199
+msgid "You've reached the end."
+msgstr ""
+
+#: functions.php:200
+msgid "Thank you!"
+msgstr ""
+
+#: functions.php:201
+msgid "Success!"
+msgstr ""
+
+#: functions.php:202
+msgid "Cancelled."
+msgstr ""
+
+#: functions.php:232
+#: functions.php:233
+#: functions.php:244
+msgid "News"
+msgstr ""
+
+#: functions.php:234
+#: functions.php:235
+#: functions.php:237
+msgid "Add News"
+msgstr ""
+
+#: functions.php:236
+msgid "Edit News"
+msgstr ""
+
+#: functions.php:238
+msgid "All News"
+msgstr ""
+
+#: functions.php:239
+msgid "View News"
+msgstr ""
+
+#: functions.php:240
+msgid "Search News"
+msgstr ""
+
+#: functions.php:241
+msgid "We can't find anything..."
+msgstr ""
+
+#: functions.php:242
+msgid "We can't find anything in trash..."
+msgstr ""
+
+#: functions.php:275
+msgid "Topics"
+msgstr ""
+
+#: functions.php:294
+msgid "News Category"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:16
+#: index.php:48
+#: archive.php:74
+#: search.php:48
+#: author.php:99
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: inc/template-tags.php:46
+#: template-parts/header-user.php:56
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Search Result \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Topic %s"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "Tag %s"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "%s's Posts"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgid "Admin"
+msgstr ""
+
+#: inc/template-functions.php:320
+msgid "Administrator"
+msgstr ""
+
+#: inc/template-functions.php:322
+msgid "Certified Editor"
+msgstr ""
+
+#: inc/template-functions.php:324
+msgid "Special Author"
+msgstr ""
+
+#: inc/template-functions.php:326
+msgid "Subscriber"
+msgstr ""
+
+#: inc/template-functions.php:329
+msgid "Contributor"
+msgstr ""
+
+#: inc/template-functions.php:478
+msgid "Sorry, comments are closed."
+msgstr ""
+
+#: inc/template-functions.php:481
+#: inc/template-functions.php:484
+msgid "Unknown error."
+msgstr ""
+
+#: inc/template-functions.php:487
+msgid "Password protected."
+msgstr ""
+
+#: inc/template-functions.php:507
+msgid "Sorry, you must be logged in to leave a comment"
+msgstr ""
+
+#: inc/template-functions.php:512
+msgid "Please fill in the required options (Name, Email)."
+msgstr ""
+
+#: inc/template-functions.php:514
+msgid "Please input a valid email address."
+msgstr ""
+
+#: inc/template-functions.php:517
+msgid "Say something..."
+msgstr ""
+
+#: inc/template-functions.php:522
+msgid "Please do not repeat your comments. :)"
+msgstr ""
+
+#: inc/template-functions.php:530
+msgid "You reply too fast. Take it easy."
+msgstr ""
+
+#: archive.php:46
+msgid "posts"
+msgstr ""
+
+#: comments.php:34
+#: template-parts/mobile-sidebar.php:57
+#: template-parts/mobile-sidebar.php:122
+#: author.php:41
+#: author.php:79
+#: widgets/author-card.php:55
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Please login to leave a comment."
+msgstr ""
+
+#: comments.php:46
+#: comments.php:48
+#: template-parts/mobile-sidebar.php:116
+msgid "Login now."
+msgstr ""
+
+#: comments.php:69
+#: template-parts/header-user.php:48
+#: template-parts/header-user.php:65
+msgid "Logout"
+msgstr ""
+
+#: comments.php:83
+msgid "Nickname"
+msgstr ""
+
+#: comments.php:88
+msgid "Email"
+msgstr ""
+
+#: comments.php:93
+msgid "Website"
+msgstr ""
+
+#: comments.php:107
+msgid "Back"
+msgstr ""
+
+#: comments.php:108
+msgid "Submit"
+msgstr ""
+
+#: comments.php:143
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:46
+#: template-parts/mobile-sidebar.php:149
+msgid "<li><a href=\"/wp-admin/nav-menus.php\">Please set up your first menu at [Admin -> Appearance -> Menus]</a></li>"
+msgstr ""
+
+#: header.php:54
+msgid "Dark Mode"
+msgstr ""
+
+#: header.php:57
+msgid "Light Mode"
+msgstr ""
+
+#: header.php:71
+msgid "Type anything to search..."
+msgstr ""
+
+#: template-parts/header-user.php:11
+msgid "Search"
+msgstr ""
+
+#: template-parts/header-user.php:21
+msgid "Contribute"
+msgstr ""
+
+#: template-parts/header-user.php:42
+#: template-parts/header-user.php:59
+msgid "My Posts"
+msgstr ""
+
+#: template-parts/header-user.php:45
+#: template-parts/header-user.php:62
+#: template-parts/mobile-sidebar.php:82
+msgid "Profile"
+msgstr ""
+
+#: template-parts/header-user.php:74
+#: template-parts/header-user.php:79
+msgid "Register"
+msgstr ""
+
+#: template-parts/header-user.php:75
+#: template-parts/header-user.php:80
+msgid "Sign in"
+msgstr ""
+
+#: template-parts/single-post-card.php:3
+msgid "That day"
+msgstr ""
+
+#: template-parts/single-post-card.php:3
+msgid "Random Post"
+msgstr ""
+
+#: template-parts/related-posts.php:34
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/content/content.php:14
+#: template-parts/content/content-news.php:14
+#: page.php:19
+#: pages/page-full.php:16
+#: pages/page-links.php:16
+msgid "Edit"
+msgstr ""
+
+#: template-parts/list-ajax-nav.php:8
+msgid "Recommended"
+msgstr ""
+
+#: template-parts/related-news.php:24
+msgid "Related News"
+msgstr ""
+
+#: template-parts/post-share-text-section.php:21
+msgid "Share"
+msgstr ""
+
+#: template-parts/post-share-text-section.php:26
+msgid "Scan QR code"
+msgstr ""
+
+#: template-parts/post-share-text-section.php:26
+msgid "Long press the QR code to share something on moments"
+msgstr ""
+
+#: template-parts/post-content-control.php:23
+msgid "Restricted content"
+msgstr ""
+
+#: template-parts/post-content-control.php:24
+msgid "Login to read more..."
+msgstr ""
+
+#: template-parts/post-content-control.php:43
+msgid "Hidden content"
+msgstr ""
+
+#: template-parts/post-content-control.php:44
+msgid "Comment to read more..."
+msgstr ""
+
+#: template-parts/mobile-sidebar.php:54
+#: template-parts/mobile-sidebar.php:76
+#: template-parts/mobile-sidebar.php:119
+#: author.php:38
+#: author.php:78
+#: widgets/author-card.php:52
+msgid "Posts"
+msgstr ""
+
+#: template-parts/mobile-sidebar.php:60
+#: template-parts/mobile-sidebar.php:125
+#: author.php:44
+#: widgets/author-card.php:58
+msgid "Likes"
+msgstr ""
+
+#: template-parts/mobile-sidebar.php:70
+msgid "New Post"
+msgstr ""
+
+#: template-parts/post-share-section.php:98
+msgid "%d member(s) like this post"
+msgstr ""
+
+#: footer.php:28
+msgid "<li><a class=\"nav-link\" href=\"/wp-admin/nav-menus.php\">Please set up your first menu at [Admin -> Appearance -> Menus]</a></li>"
+msgstr ""
+
+#: footer.php:47
+msgid "Partners: "
+msgstr ""
+
+#: comment.php:17
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comment.php:26
+msgid "Reply"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Topics Page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Links Page"
+msgstr ""
+
+#: widgets/author-card.php:10
+#: widgets/author-card.php:12
+msgid "Panda PRO - Author Card"
+msgstr ""
+
+#: widgets/recommended-posts.php:30
+#: widgets/recommended-posts.php:32
+msgid "Panda PRO - Recommended Posts"
+msgstr ""
+
+#: widgets/recommended-posts.php:202
+#: widgets/recommended-posts.php:235
+#: widgets/daily-news.php:106
+msgid "Not found any posts..."
+msgstr ""
+
+#: widgets/daily-news.php:30
+#: widgets/daily-news.php:32
+msgid "Panda PRO - Daily News"
+msgstr ""
+
+#: widgets/daily-news.php:102
+msgid "More"
+msgstr ""
