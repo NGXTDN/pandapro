@@ -1,0 +1,726 @@
+/*--------------------------------------------------------------
+ Dark mode
+--------------------------------------------------------------*/
+.nice-dark-mode {
+    background-color: #151617;
+}
+
+.nice-dark-mode,
+.nice-dark-mode a:not(.btn) {
+    color: #ffffff;
+}
+
+.nice-dark-mode p,
+.nice-dark-mode .navbar-toggler {
+    color: #B1B1C1;
+}
+
+.nice-dark-mode a:not(.btn):hover,
+.nice-dark-mode .navbar-toggler:hover {
+    color: #2c63ff;
+}
+
+.nice-dark-mode pre {
+    background-color: #383E43;
+    color: #B1B1C1;
+}
+
+/*--------------------------------------------------------------
+    color style
+--------------------------------------------------------------*/
+.nice-dark-mode .text-primary {
+    color: #2c63ff !important;
+}
+
+.nice-dark-mode .text-muted {
+    color: #585C5F !important;
+}
+
+.nice-dark-mode .text-light {
+    color: #f2f2f5 !important;
+}
+
+.nice-dark-mode .text-danger {
+    color: #f7094c !important;
+}
+
+.nice-dark-mode .text-secondary,
+.nice-dark-mode p,
+.nice-dark-mode .post-content figure {
+    color: #B1B1C1 !important;
+}
+
+.nice-dark-mode a.text-primary:hover,
+.nice-dark-mode a.text-secondary:hover,
+.nice-dark-mode a.text-muted:hover {
+    color: #0c4bff !important;
+}
+
+.nice-dark-mode a.text-primary:hover {
+    color: #fff !important;
+}
+
+.nice-dark-mode a.text-muted:hover {
+    color: #B1B1C1 !important;
+}
+
+/*--------------------------------------------------------------
+ Dark mode background style
+--------------------------------------------------------------*/
+.nice-dark-mode .bg-light {
+    background-color: #383E43 !important;
+}
+
+.nice-dark-mode .bg-primary {
+    background-color: #2C63FF !important;
+}
+
+.nice-dark-mode .bg-secondary {
+    background-color: #383E43 !important;
+}
+
+.nice-dark-mode .bg-dark {
+    background-color: #1d1e1f !important;
+}
+
+/*--------------------------------------------------------------
+Dark mode header style
+--------------------------------------------------------------*/
+.nice-dark-mode .header nav.navbar {
+    background-color: #1D1F20;
+}
+
+/*--------------------------------------------------------------
+Dark mode card style
+--------------------------------------------------------------*/
+.nice-dark-mode .card,
+.nice-dark-mode .block {
+    background-color: #1D1F20;
+    box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+Dark mode list style
+--------------------------------------------------------------*/
+.nice-dark-mode .list-overlay-content a:hover {
+    color: #fff;
+}
+
+/*--------------------------------------------------------------
+Dark mode form control style
+--------------------------------------------------------------*/
+.nice-dark-mode .form-control {
+    border: 1px solid #484c50;
+    background-color: #484c50;
+    color: #626973;
+}
+
+.nice-dark-mode .form-control:focus {
+    color: #626973;
+    border-color: #383E43;
+}
+
+.nice-dark-mode .form-control::-webkit-input-placeholder {
+    color: #626973;
+    opacity: 1;
+}
+
+.nice-dark-mode .form-control::-moz-placeholder {
+    color: #626973;
+    opacity: 1;
+}
+
+.nice-dark-mode .form-control:-ms-input-placeholder {
+    color: #626973;
+    opacity: 1;
+}
+
+.nice-dark-mode .form-control::-ms-input-placeholder {
+    color: #626973;
+    opacity: 1;
+}
+
+.nice-dark-mode .form-control::placeholder {
+    color: #626973;
+    opacity: 1;
+}
+
+.nice-dark-mode .form-control:disabled,
+.nice-dark-mode .form-control[readonly] {
+    background-color: #383E43;
+    opacity: 1;
+    color: #626973;
+}
+
+.nice-dark-mode .form-control-plaintext {
+    color: #B1B1C1;
+}
+
+/*--------------------------------------------------------------
+Dark mode input group style
+--------------------------------------------------------------*/
+.nice-dark-mode .input-group>.input-group-append>.btn-outline-secondary {
+    border-color: #f2f2f5;
+    border-left-width: 0;
+}
+
+.nice-dark-mode .input-group>.input-group-append>.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.nice-dark-mode .input-group>.input-group-append>.btn-outline-secondary:not(:disabled):not(.disabled).active,
+.nice-dark-mode .input-group>.input-group-append>.btn-outline-secondary:hover,
+.nice-dark-mode .input-group>.input-group-append>.btn-outline-secondary:focus {
+    background-color: transparent;
+    border-color: #f2f2f5;
+    color: #152035;
+}
+
+.nice-dark-mode .input-group>.form-control:focus+.input-group-append .btn {
+    border-color: transparent;
+}
+
+/*--------------------------------------------------------------
+List group item
+--------------------------------------------------------------*/
+.nice-dark-mode .list-group-item {
+    background-color: #1d1f20;
+    border-color: #383E43;
+}
+
+.nice-dark-mode .list-group-item:first-child {}
+
+.nice-dark-mode .list-group-item:last-child {}
+
+/*--------------------------------------------------------------
+ Dark mode background style
+--------------------------------------------------------------*/
+.nice-dark-mode .widget_nav_menu div>ul>li,
+.nice-dark-mode .widget_recent_comments li,
+.nice-dark-mode .widget_meta li,
+.nice-dark-mode .widget_archive li,
+.nice-dark-mode .widget_categories li,
+.nice-dark-mode .blogroll li,
+.nice-dark-mode .comment .children,
+.nice-dark-mode .comment .comment-text,
+.nice-dark-mode .post-content h4,
+.nice-dark-mode hr {
+    border-color: #2a3138 !important;
+}
+
+.nice-dark-mode .border-white {
+    border-color: #1D1F20 !important;
+}
+
+.nice-dark-mode .border-light {
+    border-color: #484c50 !important;
+}
+
+.nice-dark-mode .border-secondary {
+    border-color: #383E43 !important;
+}
+
+/*--------------------------------------------------------------
+ Dark mode Buttons
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-primary {
+    background-color: #2c63ff;
+    border-color: #2c63ff;
+}
+
+.nice-dark-mode .btn-primary:hover {
+    background-color: #0c4bff;
+    border-color: #0c4bff;
+}
+
+.nice-dark-mode .btn-primary:focus,
+.nice-dark-mode .btn-primary.focus {
+    background-color: #0c4bff;
+    border-color: #0c4bff;
+}
+
+.nice-dark-mode .btn-primary.disabled,
+.nice-dark-mode .btn-primary:disabled,
+.nice-dark-mode .btn-primary:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-primary:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #0062cc;
+}
+
+.nice-dark-mode .btn-secondary {
+    color: #fff;
+    background-color: #383E43;
+    border-color: #383E43;
+}
+
+.nice-dark-mode .btn-secondary:hover,
+.nice-dark-mode .btn-secondary:focus,
+.nice-dark-mode .btn-secondary.focus {
+    color: #fff;
+    background-color: #151516;
+    border-color: #151516;
+    box-shadow: none
+}
+
+.nice-dark-mode .btn-secondary.disabled,
+.nice-dark-mode .btn-secondary:disabled,
+.nice-dark-mode .btn-secondary:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-secondary:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-secondary.dropdown-toggle {
+    color: #585C5F;
+    background-color: #1D1F20;
+    border-color: #1D1F20;
+}
+
+.nice-dark-mode .btn-secondary:not(:disabled):not(.disabled):active:focus,
+.nice-dark-mode .btn-secondary:not(:disabled):not(.disabled).active:focus,
+.nice-dark-mode .show>.btn-secondary.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+ Dark mode Buttons light
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-light {
+    color: #B1B1C1;
+    background-color: #585C5F;
+    border-color: #585C5F;
+}
+
+.nice-dark-mode .btn-light:hover,
+.nice-dark-mode .btn-light:focus,
+.nice-dark-mode .btn-light.focus {
+    color: #FFF;
+    background-color: #383d43;
+    border-color: #383d43;
+    box-shadow: none
+}
+
+.nice-dark-mode .btn-light.disabled,
+.nice-dark-mode .btn-light:disabled,
+.nice-dark-mode .btn-light:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-light:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-light.dropdown-toggle {
+    color: #585C5F;
+    background-color: #383d43;
+    border-color: #383d43;
+}
+
+.nice-dark-mode .btn-light:not(:disabled):not(.disabled):active:focus,
+.nice-dark-mode .btn-light:not(:disabled):not(.disabled).active:focus,
+.nice-dark-mode .show>.btn-light.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+ Dark mode Buttons dark
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-dark {
+    color: #FFF;
+    background-color: #151516;
+    border-color: #151516;
+}
+
+.nice-dark-mode .btn-dark:hover,
+.nice-dark-mode .btn-dark:focus,
+.nice-dark-mode .btn-dark.focus {
+    color: #FFF;
+    background-color: #2c63ff;
+    border-color: #2c63ff;
+    box-shadow: none
+}
+
+.nice-dark-mode .btn-dark.disabled,
+.nice-dark-mode .btn-dark:disabled,
+.nice-dark-mode .btn-dark:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-dark:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-dark.dropdown-toggle {
+    color: #585C5F;
+    background-color: #151516;
+    border-color: #151516;
+}
+
+.nice-dark-mode .btn-dark:not(:disabled):not(.disabled):active:focus,
+.nice-dark-mode .btn-dark:not(:disabled):not(.disabled).active:focus,
+.nice-dark-mode .show>.btn-dark.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+Dark mode btn outline secondary style
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-outline-secondary {
+    color: #626973;
+    border-color: #383E43;
+}
+
+.nice-dark-mode .btn-outline-secondary:hover,
+.nice-dark-mode .btn-outline-secondary:focus,
+.nice-dark-mode .btn-outline-secondary.focus {
+    color: #fff;
+    background-color: #383E43;
+    border-color: #383E43;
+    box-shadow: none
+}
+
+.nice-dark-mode .btn-outline-secondary.disabled,
+.nice-dark-mode .btn-outline-secondary:disabled,
+.nice-dark-mode .btn-outline-secondary:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-outline-secondary:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-outline-secondary.dropdown-toggle {
+    color: #585C5F;
+    background-color: #383E43;
+    border-color: #383E43;
+}
+
+.nice-dark-mode .btn-outline-secondary:not(:disabled):not(.disabled):active:focus,
+.nice-dark-mode .btn-outline-secondary:not(:disabled):not(.disabled).active:focus,
+.nice-dark-mode .show>.btn-outline-secondary.dropdown-toggle:focus {
+    box-shadow: none
+}
+
+/*--------------------------------------------------------------
+Dark mode btn outline light style
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-outline-light {
+    color: #B1B1C1;
+    border-color: #626973;
+}
+
+.nice-dark-mode .btn-outline-light:hover,
+.nice-dark-mode .btn-outline-light:focus,
+.nice-dark-mode .btn-outline-light.focus {
+    color: #FFFFFF;
+    background-color: #626973;
+    border-color: #626973;
+    box-shadow: none
+}
+
+.nice-dark-mode .btn-outline-light.disabled,
+.nice-dark-mode .btn-outline-light:disabled,
+.nice-dark-mode .btn-outline-light:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-outline-light:not(:disabled):not(.disabled).active,
+.show>.btn-outline-light.dropdown-toggle {
+    color: #B1B1C1;
+    background-color: #626973;
+    border-color: #626973;
+}
+
+.nice-dark-mode .btn-outline-light:not(:disabled):not(.disabled):active:focus,
+.nice-dark-mode .btn-outline-light:not(:disabled):not(.disabled).active:focus,
+.nice-dark-mode .show>.btn-outline-light.dropdown-toggle:focus {
+    box-shadow: none
+}
+
+/*--------------------------------------------------------------
+Dark mode btn outline dark style
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-outline-primary {
+    color: #448EF6;
+    border-color: #448EF6;
+}
+
+.nice-dark-mode .btn-outline-primary:hover {
+    background-color: #2c63ff;
+    border-color: #2c63ff;
+    color: #fff;
+}
+
+.nice-dark-mode .btn-outline-primary.disabled,
+.nice-dark-mode .btn-outline-primary:disabled {
+    color: #2c63ff;
+    background-color: transparent;
+}
+
+.nice-dark-mode .btn-outline-primary:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-outline-primary:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-outline-primary.dropdown-toggle {
+    background-color: #2c63ff;
+    border-color: #2c63ff;
+}
+
+.nice-dark-mode .btn-outline-dark {
+    color: #fff;
+    border-color: #313538;
+}
+
+.nice-dark-mode .btn-outline-dark:hover,
+.nice-dark-mode .btn-outline-dark:focus,
+.nice-dark-mode .btn-outline-dark.focus {
+    color: #fff;
+    background-color: #313538;
+    border-color: #313538;
+    box-shadow: none;
+}
+
+.nice-dark-mode .btn-outline-dark.disabled,
+.nice-dark-mode .btn-outline-dark:disabled,
+.nice-dark-mode .btn-outline-dark:not(:disabled):not(.disabled):active,
+.nice-dark-mode .btn-outline-dark:not(:disabled):not(.disabled).active,
+.nice-dark-mode .show>.btn-outline-dark.dropdown-toggle {
+    color: #B1B1C1;
+    background-color: #1D1F20;
+    border-color: #1D1F20;
+}
+
+.nice-dark-mode .btn-outline-dark:not(:disabled):not(.disabled):active:focus,
+.nice-dark-mode .btn-outline-dark:not(:disabled):not(.disabled).active:focus,
+.nice-dark-mode .show>.btn-outline-dark.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+ Dark mode btn icon style
+--------------------------------------------------------------*/
+
+.nice-dark-mode .btn-icon{
+    color:#B1B1C1
+}
+
+/*--------------------------------------------------------------
+ Dark mode btn theme style
+--------------------------------------------------------------*/
+.nice-dark-mode .btn-nostyle {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.nice-dark-mode .btn-nostyle:hover {
+    opacity: .6;
+    box-shadow: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.nice-dark-mode .btn-nostyle:focus,
+.nice-dark-mode .btn-nostyle:active {
+    box-shadow: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.nice-dark-mode .btn-nostyle:disabled {
+    opacity: 1;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.nice-dark-mode .btn-link-like.current {
+    color: #ff2e63;
+}
+
+.nice-dark-mode .btn-outline-like {}
+
+.nice-dark-mode .btn-outline-like.current {
+    background-color: #ff2e63;
+    border-color: #ff2e63;
+    color: #fff;
+}
+
+.nice-dark-mode .btn-link {
+    color: #B1B1C1;
+}
+
+.nice-dark-mode .btn-link:hover {
+    color: #2c63ff;
+}
+
+.nice-dark-mode .btn-link:disabled,
+.btn-link.disabled {
+    color: #585C5F;
+}
+
+.nice-dark-mode .btn.facebook {
+    color: #5992ff;
+}
+
+/*--------------------------------------------------------------
+Dark mode badge
+--------------------------------------------------------------*/
+.nice-dark-mode .badge-outline-primary {
+    color: #2c63ff;
+    border: #2c63ff solid 1px;
+}
+
+.nice-dark-mode .badge-outline-secondary {
+    color: #B1B1C1;
+    border: #626973 solid 1px;
+}
+
+.nice-dark-mode .badge-outline-light {
+    color: #f2f2f5;
+    border: #626973 solid 1px;
+}
+
+.nice-dark-mode .badge-light {
+    color: #626973;
+    background-color: #f2f2f5;
+}
+
+.nice-dark-mode .badge-outline-warning {
+    color: #ff5f5f;
+    border: #793939 solid 1px;
+}
+
+.nice-dark-mode .badge-light[href]:hover,
+.nice-dark-mode .badge-light[href]:focus {
+    color: #626973;
+    text-decoration: none;
+    background-color: #f2f2f5;
+}
+
+.nice-dark-mode .badge-primary {
+    background-color: #2c63ff;
+}
+
+.nice-dark-mode .badge-dark {
+    background-color: #1D1F20;
+}
+
+
+/*--------------------------------------------------------------
+Dark mode  hadow style
+--------------------------------------------------------------*/
+.nice-dark-mode .shadow,
+.nice-dark-mode .shadow-2x {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+/*--------------------------------------------------------------
+Dark mode dropdown style
+--------------------------------------------------------------*/
+.nice-dark-mode .nice-dropdown {
+    background-color: #383E43;
+    box-shadow: none;
+}
+
+.nice-dark-mode .nice-dropdown:after {
+    border-top-color: #383E43;
+}
+
+
+/*--------------------------------------------------------------
+## search navbar
+--------------------------------------------------------------*/
+.nice-dark-mode .navbar-search {
+    background-color: rgba(56, 62, 67, .8)
+}
+
+/*--------------------------------------------------------------
+Dark mode submneu
+--------------------------------------------------------------*/
+.nice-dark-mode .main-menu .sub-menu {
+    background: #383E43;
+    box-shadow: none;
+}
+
+.nice-dark-mode .main-menu .sub-menu li a {
+    color: #F2F2F5;
+}
+
+/*--------------------------------------------------------------
+Dark mode widget search
+--------------------------------------------------------------*/
+.nice-dark-mode .widget_search .search-form .search-field {
+    border-color: #383E43;
+    background-color: #383E43;
+    color: #fff;
+}
+
+.nice-dark-mode .widget_search .search-form .search-submit {
+    background-color: #131313;
+}
+
+/*--------------------------------------------------------------
+Dark mode nice tips
+--------------------------------------------------------------*/
+.nice-dark-mode .nice-tips-overlay {
+    background: rgba(29, 31, 32, 0.75);
+}
+
+.nice-dark-mode .nice-tips-content {
+    background-color: #383E43;
+    border: 1px solid #383E43;
+    box-shadow: none;
+}
+
+/*--------------------------------------------------------------
+Dark mode switch
+--------------------------------------------------------------*/
+.header .nav-switch-dark-mode .icon-dark-mode {
+    display: none;
+}
+
+.nice-dark-mode .header .nav-switch-dark-mode .icon-light-mode {
+    display: none;
+}
+
+.nice-dark-mode .header .nav-switch-dark-mode .icon-dark-mode {
+    display: flex;
+}
+.nice-dark-mode .mobile-sidebar-menu{
+    background-color: #1d2021;
+}
+
+/*--------------------------------------------------------------
+    list ajax nav style
+--------------------------------------------------------------*/
+.nice-dark-mode .list-ajax-nav ul li .btn.current:after {
+    border-top: 5px solid #2C63FF;
+}
+
+.nice-dark-mode .list-ajax-nav ul li .btn.btn-primary:active:after,
+.nice-dark-mode .list-ajax-nav ul li .btn.btn-primary:focus:after,
+.nice-dark-mode .list-ajax-nav ul li .btn.current:hover:after {
+    border-top-color: #0c4bff;
+}
+
+/* ---------------------------------------------------
+Dark mode selection STYLE
+----------------------------------------------------- */
+
+/* webkit, opera, IE9 */
+.nice-dark-mode ::selection {
+    background: rgba(44, 99, 255, .9);
+    color: #fff;
+}
+
+/* mozilla firefox */
+.nice-dark-mode ::-moz-selection {
+    background: rgba(44, 99, 255, .9);
+    color: #fff;
+}
+
+/* ---------------------------------------------------
+Dark mode content share style
+----------------------------------------------------- */
+@media (min-width:768px) and (max-width: 991.98px) {
+    .nice-dark-mode .content-share .nice-dropdown {
+        background-color: transparent;
+    }
+
+    .nice-dark-mode .content-share .nice-dropdown .dropdown-inner {
+        background-color: rgba(56, 62, 67, 0.9);
+    }
+}
+
+/* ---------------------------------------------------
+Dark mode uc sidebar style
+----------------------------------------------------- */
+.nice-dark-mode .mobile-sidebar {
+    background-color: #131313;
+}
+
+.nice-dark-mode .mobile-sidebar .btn-icon {
+    color: #fff;
+}
+
+.nice-dark-mode .mobile-sidebar-author-action,
+.nice-dark-mode .mobile-sidebar-author-meta {
+    background-color: #1D1F20;
+    box-shadow: none;
+}
+
+.nice-dark-mode .mobile-overlay {
+    background: rgba(29, 31, 32, 0.75)
+}
