@@ -1,0 +1,44 @@
+{
+    "key": "group_5d007f9642fd5",
+    "title": "Panda PRO 主题 视频文章拓展",
+    "fields": [
+        {
+            "key": "field_5d007f9645537",
+            "label": "视频地址",
+            "name": "video_url",
+            "type": "text",
+            "instructions": "此功能需配合 Smartideo 插件（https:\/\/github.com\/pcdotfan\/smartideo）使用。",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_format",
+                "operator": "==",
+                "value": "video"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "config_save_path": "themes\/Panda PRO\/conf",
+    "modified": 1560329849
+}

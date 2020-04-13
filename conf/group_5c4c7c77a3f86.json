@@ -1,0 +1,100 @@
+{
+    "key": "group_5c4c7c77a3f86",
+    "title": "Panda PRO 主题 文章拓展",
+    "fields": [
+        {
+            "key": "field_5ce95158077ee",
+            "label": "显示特色标签",
+            "name": "featured_tag",
+            "type": "button_group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": [
+                "关闭",
+                "开启"
+            ],
+            "allow_null": 0,
+            "default_value": 0,
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5ce9515d077ef",
+            "label": "特色标签",
+            "name": "featured_tag_obj",
+            "type": "taxonomy",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5ce95158077ee",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "taxonomy": "post_tag",
+            "field_type": "select",
+            "allow_null": 0,
+            "add_term": 1,
+            "save_terms": 0,
+            "load_terms": 0,
+            "return_format": "id",
+            "multiple": 0
+        },
+        {
+            "key": "field_5d09c43df3165",
+            "label": "内容隐藏",
+            "name": "hide_content",
+            "type": "button_group",
+            "instructions": "限制显示内容以<code>&lt;!--more--&gt;<\/code>为分界点",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "close": "关闭",
+                "login": "登录后显示",
+                "comment": "评论后显示"
+            },
+            "allow_null": 0,
+            "default_value": "close",
+            "layout": "horizontal",
+            "return_format": "value"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 1,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "config_save_path": "themes\/Panda PRO\/conf",
+    "modified": 1560922881
+}

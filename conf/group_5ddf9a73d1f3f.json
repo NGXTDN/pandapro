@@ -1,0 +1,68 @@
+{
+    "key": "group_5ddf9a73d1f3f",
+    "title": "Panda PRO 主题 单文卡片",
+    "fields": [
+        {
+            "key": "field_5ddf9a73d4e02",
+            "label": "类型",
+            "name": "type",
+            "type": "button_group",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "random_post": "随机文章",
+                "history_post": "那年今日"
+            },
+            "allow_null": 0,
+            "default_value": "random_post",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5ddf9a73d4e08",
+            "label": "限制时间",
+            "name": "days",
+            "type": "number",
+            "instructions": "填入天数则仅显示近 XX 天文章，不填为不限制",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "widget",
+                "operator": "==",
+                "value": "single_post_card"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "config_save_path": "themes\/PandaPRO\/conf",
+    "modified": 1574935692
+}
